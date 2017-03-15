@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         pause.setOnClickListener(this);
         restart.setOnClickListener(this);
         stop.setOnClickListener(this);
-        
+
 
     }
 
