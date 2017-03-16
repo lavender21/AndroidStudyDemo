@@ -11,5 +11,7 @@
 2. **MusicPlayerDemo**，Service应用，音乐播放器小demo,使用启动服务的方法展示。
 3. **MusicPlayerDemoBind**,Service应用，音乐播放器小demo，使用绑定服务的方法展示。同时通过开启一个监听事件，监听多个按钮的触发。避免添加太多按钮的监听事件试代码冗余。
 4. **LuckDrawGame**,学习开启多线程，抽奖游戏小demo,通过继承Thread类，重写run()方法实现。
+
+2017-03-16
 5. **LoginDemo**,学习sharedPreferences的用法。
 6. **FileStorage**,学习文件存储。
