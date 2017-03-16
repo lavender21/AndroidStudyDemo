@@ -13,6 +13,7 @@
 4. **LuckDrawGame**,学习开启多线程，抽奖游戏小demo,通过继承Thread类，重写run()方法实现。
 
 2017-03-16
+
 5. **LoginDemo**,学习sharedPreferences的用法。
 6. **FileStorage**,学习文件存储。
 7. **HandleDemo**，学习Handler的使用，以及主线程子线程之间通信协作，通过抽奖游戏来举例。
