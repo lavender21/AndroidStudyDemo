@@ -15,3 +15,5 @@
 2017-03-16
 5. **LoginDemo**,学习sharedPreferences的用法。
 6. **FileStorage**,学习文件存储。
+7. **HandleDemo**，学习Handler的使用，以及主线程子线程之间通信协作，通过抽奖游戏来举例。
+8. **AsyncTaskDemo**,学习异步执行任务，通过进度条的显示来举例。
