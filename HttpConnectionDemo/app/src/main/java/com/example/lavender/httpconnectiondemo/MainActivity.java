@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
             StringBuilder response = new StringBuilder();
             try{
                 Log.i("Tag","new  url");
-                URL url = new URL("http://api.jirengu.com/weather.php?callback=getWeather");
+                URL url = new URL("http://10.101.102.253:8080/api/student");
                 connection = (HttpURLConnection)url.openConnection();
                 connection.setRequestMethod("GET");
                 connection.setConnectTimeout(6000);
@@ -87,5 +87,9 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
+
+
+
+
 
 
